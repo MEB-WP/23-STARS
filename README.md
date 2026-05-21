@@ -212,15 +212,6 @@
       alt="Fashion"
     >
     
- </div>
-
-    <img 
-      src="file_00000000c498720cbf11defdcf7fb7d2.png"
-      alt="Fashion"
-    >
-
-  </div>
-
   <script>
 
     function openMEB(){
