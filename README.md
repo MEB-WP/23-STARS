@@ -196,7 +196,7 @@
     </div>
 
     <img 
-      src="IMG_20260519225707322.jpg"
+      src="IMG_20260514120729375.jpg"
       alt="Fashion"
     >
 
