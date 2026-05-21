@@ -207,6 +207,11 @@
       Merci de faire confiance à MEB.
     </div>
 
+    <img 
+      src="IMG_20260514120729375.jpg"
+      alt="Fashion"
+    >
+
   </div>
 
   <script>
