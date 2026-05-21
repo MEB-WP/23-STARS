@@ -134,7 +134,7 @@
 
     <!-- TON IMAGE -->
     <img 
-      src="IMG_20260519_233520_717.jpg"
+      src="IMG_20260514_123637_062.jpg"
       class="product-image"
       alt="T-shirt MEB WEAR POWER"
     >
